@@ -35,7 +35,7 @@ const session_store = new MongoStore({
      
     mongoUrl : uri ,
 
-    dbName   : "DeltaAirways",
+    dbName   : "DeltaAirWays",
 
     collectionName : "Delta_Session"
 
